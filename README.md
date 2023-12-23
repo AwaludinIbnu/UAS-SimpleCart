@@ -67,6 +67,3 @@ check test coverage
  - Unit test
  - Unit test coverage
  - CI setup 
-
- ![Alt text](image.png)
-![Alt text](image-1.png)
